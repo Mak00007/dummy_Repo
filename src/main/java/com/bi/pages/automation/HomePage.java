@@ -7,6 +7,11 @@ public class HomePage
 	{
 		System.out.println("Home page");
 	}
+	
+	public void kidSection()
+	{
+		System.out.println("Kids Section");
+	}
 
 	
 }
